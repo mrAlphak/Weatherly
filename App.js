@@ -13,7 +13,11 @@ The app utilizes various libraries and components such as React Navigation, Axio
 Feel free to modify and enhance the app according to your needs!
 
 Enjoy coding,
-MrAlphak ^^
+
+--------------------------
+https://github.com/mrAlphak/
+https://www.linkedin.com/in/aka-joseph/
+
 */
 
 
