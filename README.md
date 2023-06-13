@@ -1,4 +1,4 @@
-![My Remote Image]([https://mega.nz/file/6n4H2SIA#2kAAkfPnwQWKFbiSyoziCQQSkEGI6O2Si8-_NWsR8LM])
+![Cover]([https://mega.nz/file/6n4H2SIA#2kAAkfPnwQWKFbiSyoziCQQSkEGI6O2Si8-_NWsR8LM])
 
 # Weatherly, a weather app ☁️🌞
 
