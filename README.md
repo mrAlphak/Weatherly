@@ -25,6 +25,8 @@ Feel free to modify and enhance the app according to your needs!
 - Clone the repository
 - Install dependencies: Run `npm install` into the cloned repository directory
 - For ios users: Run `pod install`
+- Create an account on geonames and place your username in the api file
+- Create an account on visualcrossing, get an api key and put this key in the api file
 - Start the development server: `npm run start` into the cloned repository directory
 - Build and run the app: `npm run android` or `npm run ios`
 
