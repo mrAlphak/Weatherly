@@ -78,11 +78,9 @@ export const useApi=()=>{
 
     // Function to modify the input array of next days' weather data
     const setNextDays=async(arr)=>{
-        arr.splice(1, 1)
         for(let i = 0; i < arr.length; i++){
             const dayOfWeek = new Intl.DateTimeFormat('en-EN', { weekday: 'long' }).format(new Date(arr[i].datetime))
             arr[i].dayOfWeek = dayOfWeek
-            arr[i].id = i
         }
         arr.unshift({datetime: 'top-space'})
         arr.push({datetime: 'bottom-space'})      

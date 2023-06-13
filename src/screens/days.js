@@ -62,7 +62,7 @@ const List=React.memo(({data})=>{
     return (
         <FlatList
             data={data}
-            keyExtractor={(item)=>item.id}
+            keyExtractor={(item)=>item.datetime}
             renderItem={({item, index})=><Item item={item} index={index} />}
             contentContainerStyle={{gap: 10}}
             style={{marginTop: 5}}
@@ -73,7 +73,6 @@ const List=React.memo(({data})=>{
 })
 const Item=({item, index})=>{
     const translateX = useSharedValue(-SCREEN_WIDTH)
-
     useEffect(()=>{
         const timeout = setTimeout(()=>{
             translateX.value = withTiming(0, {duration: 500})       
@@ -106,7 +105,6 @@ const Item=({item, index})=>{
         <View style={{width: '100%', height: 30}} />
     )
 }
-
 const styles = StyleSheet.create({
     background:{
         height: SCREEN_HEIGHT,

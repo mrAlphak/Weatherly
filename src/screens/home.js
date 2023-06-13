@@ -72,7 +72,7 @@ const Home=()=>{
                                 <WeatherIcon icon={currentConditions.icon} height={130} width={130} />    
                             </View>
                             <View style={{zIndex: 2, marginTop: 50, flexDirection: 'row'}}>
-                                <GradientText fontSize={160} viewBoxWidth={190} viewBoxHeight={20} fontFamily='Inter-SemiBold'>{currentConditions.temp}</GradientText>
+                                <GradientText fontSize={160} viewBoxWidth={200} viewBoxHeight={20} fontFamily='Inter-SemiBold'>{currentConditions.temp}</GradientText>
                                 <Text style={{position: 'absolute',right: -30, top: -15, fontSize: 100, color: 'white'}}>°</Text>
                             </View>
                         </View>
