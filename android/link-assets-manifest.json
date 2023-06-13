@@ -1,0 +1,77 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Catamaran-Black.ttf",
+      "sha1": "d2de0db904aa8f75af65954ca68bbe5784564354"
+    },
+    {
+      "path": "src/assets/fonts/Catamaran-Bold.ttf",
+      "sha1": "b630b2bcbe027b606a44d53114ba4d76a54fdcb8"
+    },
+    {
+      "path": "src/assets/fonts/Catamaran-ExtraBold.ttf",
+      "sha1": "0b5c9212f54a34b5ba23bf30c5d805b53e5bfa0d"
+    },
+    {
+      "path": "src/assets/fonts/Catamaran-ExtraLight.ttf",
+      "sha1": "589b7832498e529eb60ea9e29d1292935f0c5931"
+    },
+    {
+      "path": "src/assets/fonts/Catamaran-Light.ttf",
+      "sha1": "754dc1be5b145e2213b5962eac597fb755fd8f4e"
+    },
+    {
+      "path": "src/assets/fonts/Catamaran-Medium.ttf",
+      "sha1": "3483125d1def77c8d545d46648676dd927952eb4"
+    },
+    {
+      "path": "src/assets/fonts/Catamaran-Regular.ttf",
+      "sha1": "7d4d0657a4efb420a8a69ba165ac7b2f2c8aac26"
+    },
+    {
+      "path": "src/assets/fonts/Catamaran-SemiBold.ttf",
+      "sha1": "004bccb894940ac4b39b74564191f0e5bf1cbbd3"
+    },
+    {
+      "path": "src/assets/fonts/Catamaran-Thin.ttf",
+      "sha1": "0ce806b9951946240ef448e15fa4ec3eddf56d60"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Black.ttf",
+      "sha1": "283fa65b96dc1f2d71c6504afb9610447bdcdf1b"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Bold.ttf",
+      "sha1": "48747b7a60086f97af0d373febcbd1f1bee87f17"
+    },
+    {
+      "path": "src/assets/fonts/Inter-ExtraBold.ttf",
+      "sha1": "bff772be6bca9895c6fdcd57e5d5be9a47f2e058"
+    },
+    {
+      "path": "src/assets/fonts/Inter-ExtraLight.ttf",
+      "sha1": "421072aef8610cb0f79661b494442a4b9363b43f"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Light.ttf",
+      "sha1": "dd9ec1ae67dd85143bacf7a3cb37e9f0ac979843"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Medium.ttf",
+      "sha1": "a418a8ba73bbcfa8c131c426ab836d78457afa9b"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Regular.ttf",
+      "sha1": "7237d9cf55f177702066a28a4dde1e4c7e8ab576"
+    },
+    {
+      "path": "src/assets/fonts/Inter-SemiBold.ttf",
+      "sha1": "431007da316de60d85174aeec9b8389b5c73e7d6"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Thin.ttf",
+      "sha1": "297919d59c9ba4fa17251cdb9f06c26ca906e593"
+    }
+  ]
+}
