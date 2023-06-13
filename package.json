@@ -1,7 +1,7 @@
 {
   "name": "Weatherly",
   "version": "0.0.1",
-  "private": true,
+  "author": "MrAlphak",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
