@@ -1,7 +1,7 @@
 # Weatherly, a weather app ☁️🌞
 
 This is a weather app built with React Native. 
-It provides real-time weather information for different locations. 
+It provides real-time weather information for current location. 
 
 # Features:
 - Current weather conditions, 
