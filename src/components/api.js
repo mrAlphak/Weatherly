@@ -10,9 +10,9 @@ const config = {
     maximumAge: 3600000,
 }
 //create an account on geonames and replace by your username here
-const username = 'weatherly'
+const username = ''
 //create an account on visualcrossing and replace by your api key here
-const API_KEY = 'Q3GBAF99BJMJQYVEEG6FGT5JZ'
+const API_KEY = ''
 
 // Function to get the device coordinates using geolocation
 const getCoordinates=async()=>{
