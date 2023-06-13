@@ -1,4 +1,4 @@
-![Cover]([https://mega.nz/file/6n4H2SIA#2kAAkfPnwQWKFbiSyoziCQQSkEGI6O2Si8-_NWsR8LM])
+![Cover](src/assets/images/Cover.png)
 
 # Weatherly, a weather app ☁️🌞
 
